@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GolfScoreApp</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+    <string name="defaultText_hole">Hole 0</string>
+    <string name="defaultText_stroke">0</string>
+    <string name="action_clear_strokes">Clear Strokes</string>
+</resources>
