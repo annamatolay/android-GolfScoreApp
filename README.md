@@ -20,5 +20,5 @@ Or turn off your phone.. The scores will always stay with you! (Except, if you d
 * Storing in SharedPreferences.
 * Creating own menu *(Right, if you tuch the menu button, finally something will happens :wink:)*
 
-**Known issue:** The menu dosn't shon on the action bar... Maybe because of the theme.. I don't know, yet.
+**Known issue:** *The menu dosn't shown on the action bar... Maybe because of the theme.. I don't know, yet.*
 
